@@ -1,4 +1,4 @@
-HEAD
+
 # Sistem Informasi Data Siswa Sederhana
 
 Aplikasi web CRUD (Create, Read, Update, Delete) sederhana untuk mengelola
