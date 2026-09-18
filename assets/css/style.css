@@ -1,0 +1,25 @@
+/**
+ * assets/css/style.css
+ * ---------------------------------------------------------------------
+ * Style tambahan di atas Bootstrap (Unit kompetensi: Mengimplementasikan
+ * User Interface). Sengaja dibuat minim karena Bootstrap sudah menangani
+ * sebagian besar tampilan.
+ */
+
+body {
+    background-color: #f5f7fb;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+}
+
+.table thead {
+    background-color: #0d6efd;
+    color: #fff;
+}
+
+.badge-kelas {
+    font-size: 0.85rem;
+}
